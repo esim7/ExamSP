@@ -1,0 +1,18 @@
+﻿<Window x:Class="SP_Exam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SP_Exam"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="381*"/>
+            <RowDefinition Height="53*"/>
+        </Grid.RowDefinitions>
+        <Button Content="GoButton" HorizontalAlignment="Center" VerticalAlignment="Top" Width="180" Click="GoButtonClick" Margin="0,207,0,0" Height="20"/>
+        <ProgressBar Name="progressbar" HorizontalAlignment="Center" IsIndeterminate="false" Height="20" Margin="0,31,0,0" Grid.Row="1" VerticalAlignment="Top" Width="800"/>
+
+    </Grid>
+</Window>

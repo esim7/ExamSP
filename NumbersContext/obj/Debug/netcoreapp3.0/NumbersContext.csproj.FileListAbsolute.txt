@@ -1,0 +1,11 @@
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\bin\Debug\netcoreapp3.0\NumbersContext.deps.json
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\bin\Debug\netcoreapp3.0\NumbersContext.dll
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\obj\Debug\netcoreapp3.0\NumbersContext.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\obj\Debug\netcoreapp3.0\NumbersContext.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\obj\Debug\netcoreapp3.0\NumbersContext.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\bin\Debug\netcoreapp3.0\NumbersContext.pdb
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\obj\Debug\netcoreapp3.0\NumbersContext.csproj.CopyComplete
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\obj\Debug\netcoreapp3.0\NumbersContext.dll
+C:\Users\МакишевЕ\source\repos\SP_Exam\NumbersContext\obj\Debug\netcoreapp3.0\NumbersContext.pdb
